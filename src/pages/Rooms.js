@@ -8,7 +8,7 @@ export default function Rooms() {
     return (
         <React.Fragment>
             <Hero hero="roomsHero">
-                <Banner title="here our rooms">
+                <Banner title="our rooms">
                     <Link to="/" className="btn-primary">return home</Link>
                 </Banner>
             </Hero>
